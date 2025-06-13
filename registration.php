@@ -86,7 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <a href="#" title="Follow us on Instagram"><i class="fab fa-instagram"></i></a>
             <a href="#" title="Subscribe on YouTube"><i class="fab fa-youtube"></i></a>
         </div>
-        <p>&copy; 2024 F1 Fan Portal. All rights reserved.</p>
+        <p>&copy; 2025 F1 Fan Portal. All rights reserved.</p>
         <p>Follow us on social media for the latest Formula 1 updates!</p>
     </footer>
 

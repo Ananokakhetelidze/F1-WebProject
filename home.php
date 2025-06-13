@@ -58,12 +58,12 @@ if (isset($_GET['logout'])) {
           <p>The Prancing Horse</p>
         </div>
         <div class="team-card">
-          <img src="images/mclaren.png" alt="McLaren F1 Team" />
+          <img src="images\ml.jpg" alt="McLaren F1 Team" />
           <h3>McLaren</h3>
           <p>British Racing Excellence</p>
         </div>
         <div class="team-card">
-          <img src="images/aston_martin.png" alt="Aston Martin F1 Team" />
+          <img src="images\martin.png" alt="Aston Martin F1 Team" />
           <h3>Aston Martin</h3>
           <p>Racing in Green</p>
         </div>
@@ -79,29 +79,29 @@ if (isset($_GET['logout'])) {
       <h2 class="page-title">Latest News</h2>
       <div class="news-grid">
         <div class="news-card">
-          <img src="images/news1.jpg" alt="F1 News" />
+          <img src="images\Lando-Norris-01.jpg" alt="F1 News" />
           <div class="news-content">
-            <h3>Verstappen Dominates Bahrain Season Opener</h3>
-            <p class="news-date">March 2, 2024</p>
-            <p>Max Verstappen started his title defense in style with a commanding victory at the Bahrain Grand Prix...</p>
+            <h3>Norris Dominates Australian Season Opener</h3>
+            <p class="news-date">May 10, 2025</p>
+            <p>Lando Norris started his title fight in style with a commanding victory at the Australian Grand Prix...</p>
             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
           </div>
         </div>
         <div class="news-card">
-          <img src="images/news2.jpg" alt="F1 News" />
+          <img src="images\lf.jpg" alt="F1 News" />
           <div class="news-content">
-            <h3>Hamilton Announces New Mercedes Contract</h3>
+            <h3>Hamilton Announces New Scuderia Ferrari Contract</h3>
             <p class="news-date">March 1, 2024</p>
-            <p>Seven-time world champion Lewis Hamilton has signed a new multi-year contract with Mercedes...</p>
+            <p>Seven-time world champion Lewis Hamilton has signed a new multi-year contract with Ferrari...</p>
             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
           </div>
         </div>
         <div class="news-card">
-          <img src="images/news3.jpg" alt="F1 News" />
+          <img src="images\sf.jpg" alt="F1 News" />
           <div class="news-content">
-            <h3>Ferrari Unveils New Car for 2024 Season</h3>
+            <h3>Ferrari Unveils New Car for 2026 Season</h3>
             <p class="news-date">February 28, 2024</p>
-            <p>Scuderia Ferrari has revealed their challenger for the 2024 Formula 1 season, featuring a bold new design...</p>
+            <p>Scuderia Ferrari has revealed their challenger for the 2026 Formula 1 season, featuring a bold new design...</p>
             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
           </div>
         </div>
@@ -116,7 +116,7 @@ if (isset($_GET['logout'])) {
       <a href="#" title="Follow us on Instagram"><i class="fab fa-instagram"></i></a>
       <a href="#" title="Subscribe on YouTube"><i class="fab fa-youtube"></i></a>
     </div>
-    <p>&copy; 2024 F1 Fan Portal. All rights reserved.</p>
+    <p>&copy; 2025 F1 Fan Portal. All rights reserved.</p>
     <p>Follow us on social media for the latest Formula 1 updates!</p>
   </footer>
 

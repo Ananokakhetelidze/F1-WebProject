@@ -54,35 +54,35 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
                         <td>1</td>
                         <td class="race-name">Bahrain Grand Prix</td>
                         <td class="race-circuit">Bahrain International Circuit</td>
-                        <td class="race-date">March 2, 2024</td>
+                        <td class="race-date">April 13, 2025</td>
                         <td><span class="race-status status-completed">Completed</span></td>
                     </tr>
                     <tr>
                         <td>2</td>
                         <td class="race-name">Saudi Arabian Grand Prix</td>
                         <td class="race-circuit">Jeddah Corniche Circuit</td>
-                        <td class="race-date">March 9, 2024</td>
+                        <td class="race-date">April 20, 2025</td>
                         <td><span class="race-status status-completed">Completed</span></td>
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td class="race-name">Australian Grand Prix</td>
-                        <td class="race-circuit">Albert Park Circuit</td>
-                        <td class="race-date">March 24, 2024</td>
+                        <td class="race-name">Autrian Grand Prix</td>
+                        <td class="race-circuit">Red Bull Ring</td>
+                        <td class="race-date">June 29, 2025</td>
                         <td><span class="race-status status-upcoming">Upcoming</span></td>
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td class="race-name">Japanese Grand Prix</td>
-                        <td class="race-circuit">Suzuka Circuit</td>
-                        <td class="race-date">April 7, 2024</td>
+                        <td class="race-name">Belgium Grand Prix</td>
+                        <td class="race-circuit">Circuit de Spa-Francorchamps</td>
+                        <td class="race-date">July 27, 2025</td>
                         <td><span class="race-status status-upcoming">Upcoming</span></td>
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td class="race-name">Chinese Grand Prix</td>
-                        <td class="race-circuit">Shanghai International Circuit</td>
-                        <td class="race-date">April 21, 2024</td>
+                        <td class="race-name">Italy Grand Prix</td>
+                        <td class="race-circuit">Autodromo Nazionale Monza</td>
+                        <td class="race-date">September 7, 2025</td>
                         <td><span class="race-status status-upcoming">Upcoming</span></td>
                     </tr>
                 </tbody>
@@ -97,7 +97,7 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
             <a href="#" title="Follow us on Instagram"><i class="fab fa-instagram"></i></a>
             <a href="#" title="Subscribe on YouTube"><i class="fab fa-youtube"></i></a>
         </div>
-        <p>&copy; 2024 F1 Fan Portal. All rights reserved.</p>
+        <p>&copy; 2025 F1 Fan Portal. All rights reserved.</p>
         <p>Follow us on social media for the latest Formula 1 updates!</p>
     </footer>
 

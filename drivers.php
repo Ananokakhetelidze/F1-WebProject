@@ -38,7 +38,6 @@ if (isset($_GET['logout'])) {
     <main>
         <h2 class="page-title">Meet the Drivers</h2>
         <div class="driver-cards">
-            <!-- Current F1 Drivers -->
             <div class="driver-card">
                 <img src="images\verstappen.avif" alt="Max Verstappen" />
                 <h3>Max Verstappen</h3>
@@ -46,11 +45,11 @@ if (isset($_GET['logout'])) {
                 <p>Nationality: Dutch</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">3</div>
+                        <div class="stat-value">4</div>
                         <div class="stat-label">World Titles</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">54</div>
+                        <div class="stat-value">65</div>
                         <div class="stat-label">Wins</div>
                     </div>
                 </div>
@@ -59,7 +58,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\tsunoda.avif" alt="Yuki Tsunoda" />
                 <h3>Yuki Tsunoda</h3>
-                <p>Team: RB</p>
+                <p>Team: Red Bull Racing</p>
                 <p>Nationality: Japanese</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -76,15 +75,15 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\leclerc.avif" alt="Charles Leclerc" />
                 <h3>Charles Leclerc</h3>
-                <p>Team: Ferrari</p>
+                <p>Team: Scuderia Ferrari</p>
                 <p>Nationality: Monegasque</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">5</div>
+                        <div class="stat-value">26</div>
                         <div class="stat-label">Pole Positions</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">23</div>
+                        <div class="stat-value">46</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -93,7 +92,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images/lewis_hamilton.jpg" alt="Lewis Hamilton" />
                 <h3>Lewis Hamilton</h3>
-                <p>Team: Mercedes-AMG</p>
+                <p>Team: Scuderia Ferrari</p>
                 <p>Nationality: British</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -101,7 +100,7 @@ if (isset($_GET['logout'])) {
                         <div class="stat-label">World Titles</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">103</div>
+                        <div class="stat-value">104</div>
                         <div class="stat-label">Wins</div>
                     </div>
                 </div>
@@ -114,11 +113,11 @@ if (isset($_GET['logout'])) {
                 <p>Nationality: British</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">2</div>
+                        <div class="stat-value">3</div>
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">11</div>
+                        <div class="stat-value">19</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -127,7 +126,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\antonelli.avif" alt="Andrea Kimi Antonelli" />
                 <h3>Andrea Kimi Antonelli</h3>
-                <p>Team: Mercedes Junior</p>
+                <p>Team: Mercedes-AMG</p>
                 <p>Nationality: Italian</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -148,11 +147,11 @@ if (isset($_GET['logout'])) {
                 <p>Nationality: British</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">1</div>
+                        <div class="stat-value">6</div>
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">13</div>
+                        <div class="stat-value">34</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -165,11 +164,11 @@ if (isset($_GET['logout'])) {
                 <p>Nationality: Australian</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">0</div>
+                        <div class="stat-value">7</div>
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">2</div>
+                        <div class="stat-value">18</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -220,7 +219,7 @@ if (isset($_GET['logout'])) {
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">4</div>
+                        <div class="stat-value">5</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -229,7 +228,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\colapinto.avif" alt="Franco Colapinto" />
                 <h3>Franco Colapinto</h3>
-                <p>Team: Williams Academy</p>
+                <p>Team: Alpine</p>
                 <p>Nationality: Argentine</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -263,15 +262,15 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\sainz.avif" alt="Carlos Sainz" />
                 <h3>Carlos Sainz</h3>
-                <p>Team: Ferrari</p>
+                <p>Team: Williams</p>
                 <p>Nationality: Spanish</p>
                 <div class="driver-stats">
                     <div class="stat">
-                        <div class="stat-value">3</div>
+                        <div class="stat-value">4</div>
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">18</div>
+                        <div class="stat-value">27</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -280,16 +279,16 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\lawson-racing-bulls.avif" alt="Liam Lawson" />
                 <h3>Liam Lawson</h3>
-                <p>Team: Red Bull Junior</p>
+                <p>Team: Racing Bulls</p>
                 <p>Nationality: New Zealander</p>
                 <div class="driver-stats">
                     <div class="stat">
                         <div class="stat-value">0</div>
-                        <div class="stat-label">F1 Races</div>
+                        <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
                         <div class="stat-value">-</div>
-                        <div class="stat-label">Reserve Driver</div>
+                        <div class="stat-label">Driver</div>
                     </div>
                 </div>
             </div>
@@ -297,7 +296,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\hadjar.avif" alt="Isack Hadjar" />
                 <h3>Isack Hadjar</h3>
-                <p>Team: Red Bull Junior</p>
+                <p>Team: Racing Bulls</p>
                 <p>Nationality: French</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -314,7 +313,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\hulkenberg.avif" alt="Nico Hulkenberg" />
                 <h3>Nico Hulkenberg</h3>
-                <p>Team: Haas</p>
+                <p>Team: Kick Sauber</p>
                 <p>Nationality: German</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -331,7 +330,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\bortoleto.avif" alt="Gabriel Bortoleto" />
                 <h3>Gabriel Bortoleto</h3>
-                <p>Team: McLaren Junior</p>
+                <p>Team: Kick Sauber</p>
                 <p>Nationality: Brazilian</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -348,7 +347,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\ocon.avif" alt="Esteban Ocon" />
                 <h3>Esteban Ocon</h3>
-                <p>Team: Alpine</p>
+                <p>Team: Haas</p>
                 <p>Nationality: French</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -356,7 +355,7 @@ if (isset($_GET['logout'])) {
                         <div class="stat-label">Wins</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-value">3</div>
+                        <div class="stat-value">4</div>
                         <div class="stat-label">Podiums</div>
                     </div>
                 </div>
@@ -365,7 +364,7 @@ if (isset($_GET['logout'])) {
             <div class="driver-card">
                 <img src="images\bearman.avif" alt="Oliver Bearman" />
                 <h3>Oliver Bearman</h3>
-                <p>Team: Ferrari Academy</p>
+                <p>Team: Haas</p>
                 <p>Nationality: British</p>
                 <div class="driver-stats">
                     <div class="stat">
@@ -388,7 +387,7 @@ if (isset($_GET['logout'])) {
             <a href="#" title="Follow us on Instagram"><i class="fab fa-instagram"></i></a>
             <a href="#" title="Subscribe on YouTube"><i class="fab fa-youtube"></i></a>
         </div>
-        <p>&copy; 2024 F1 Fan Portal. All rights reserved.</p>
+        <p>&copy; 2025 F1 Fan Portal. All rights reserved.</p>
         <p>Follow us on social media for the latest Formula 1 updates!</p>
     </footer>
 
