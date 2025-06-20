@@ -24,7 +24,7 @@ if (isset($_GET['logout'])) {
 </head>
 <body>
   <header>
-    <h1>F1 Fan Portal</h1>
+    <h1><a href="home.php" style="color:inherit; text-decoration:none;">F1 Fan Portal</a></h1>
     <nav>
             <ul>
                 <li><a href="home.php" class="nav-link"><i class="fas fa-home"></i> Home</a></li>
@@ -37,7 +37,7 @@ if (isset($_GET['logout'])) {
   </header>
 
   <main>
-    <div class="hero">
+    <span class="hero">
       <h2>Experience the Thrill of Formula 1</h2>
       <p>Your ultimate destination for Formula 1 news, driver profiles, and race schedules. Stay updated with the latest from the world's most prestigious motorsport championship.</p>
       
@@ -73,9 +73,9 @@ if (isset($_GET['logout'])) {
           <p>French Racing Heritage</p>
         </div>
       </div>
-    </div>
+    </span>
 
-    <div class="latest-news">
+    <span class="latest-news">
       <h2 class="page-title">Latest News</h2>
       <div class="news-grid">
         <div class="news-card">
@@ -106,7 +106,7 @@ if (isset($_GET['logout'])) {
           </div>
         </div>
       </div>
-    </div>
+    </span>
   </main>
 
   <footer>

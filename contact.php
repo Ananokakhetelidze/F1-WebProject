@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <header>
-        <h1>F1 Fan Portal</h1>
+        <h1><a href="home.php" style="color:inherit; text-decoration:none;">F1 Fan Portal</a></h1>
         <nav>
             <ul>
                 <li><a href="home.php" class="nav-link"><i class="fas fa-home"></i> Home</a></li>
